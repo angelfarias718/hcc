@@ -1,1 +1,8 @@
-Welcome.  Run 'python test.py' in order to validate the function in 'hcodechallenge.py' file.  Thanks for stopping by!
+Welcome.  This was created using Python 2.7.13.
+
+Using the command prompt, run:
+
+'python hcodechallenge.py' for function.
+'python test.py' for unit test.
+
+Thanks for stopping by!
